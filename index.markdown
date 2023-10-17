@@ -9,10 +9,11 @@ classes: wide
 </div>
 
 
-I am now a research assistant at Harvard University [Visual Computing Group](https://vcg.seas.harvard.edu/), 
+I am now a research assistant at [Harvard University](https://www.harvard.edu/) 
+[Visual Computing Group](https://vcg.seas.harvard.edu/), 
 where I am fortunate to work with Dr.[Zhutian Chen](https://chenzhutian.org/) and 
 Prof.[Hanspeter Pfister](https://seas.harvard.edu/person/hanspeter-pfister). 
-Before that, I worked with [Prof. Scott Easley](https://viterbi.usc.edu/directory/faculty/Easley/Scott) 
+Before that, I worked with Prof.[Scott Easley](https://viterbi.usc.edu/directory/faculty/Easley/Scott) 
 at the [University of Southern California](https://www.usc.edu/).
 I received my M.S. degree in Computer Science from the University of Southern California in 2022.
 I was interned at [Google](https://about.google/) as a software engineer in summer 2022, 
