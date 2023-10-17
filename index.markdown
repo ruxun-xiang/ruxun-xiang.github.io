@@ -4,8 +4,10 @@ author_profile: true
 author: Ruxun Xiang
 classes: wide
 ---
+<div>
+<h1>Hi, there! I'm Ruxun.</h1>
+</div>
 
-# Hi, there! I'm Ruxun.
 
 I am now a research assistant at Harvard University [Visual Computing Group](https://vcg.seas.harvard.edu/), 
 where I am fortunate to work with Dr.[Zhutian Chen](https://chenzhutian.org/) and 
