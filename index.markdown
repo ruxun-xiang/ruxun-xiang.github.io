@@ -67,7 +67,7 @@ Contact me through [Email](mailto:ruxunx@seas.harvard.edu).
 
 <!-- Left side: Image -->
 <div style="flex: 30%;">
-   <img src="assets/images/Google.png" alt="Flowchart of Adapting Visualizations" style="max-width: 100%;">
+   <img src="assets/images/google.png" alt="Flowchart of Adapting Visualizations" style="max-width: 100%;">
 </div>
 
 <!-- Right side: Text -->
