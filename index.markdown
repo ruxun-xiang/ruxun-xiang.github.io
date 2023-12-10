@@ -55,8 +55,9 @@ Contact me through [Email](mailto:ruxunx@seas.harvard.edu).
 <!-- Right side: Text -->
 <div style="flex: 70%; padding-left: 20px;">
    <h3>SportsXR: your ultimate sidekick for sports watching</h3>
-   <p>In collaboration with [Harvard Men's Basketball](https://www.instagram.com/harvardmbb/?hl=en)</p>
-   <p>[Check this reel out!!](https://www.instagram.com/reel/C0eYsRJutXL/?hl=en)</p>
+   <p>In collaboration with <a href="https://www.instagram.com/harvardmbb/?hl=en">Harvard Men's Basketball</a></p>
+   <p><a href="https://www.instagram.com/reel/C0eYsRJutXL/?hl=en">Check this reel out!!</a></p>
+
 </div>
 
 </div>
