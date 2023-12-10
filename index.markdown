@@ -18,6 +18,7 @@ at the [University of Southern California](https://www.usc.edu/).
 I received my M.S. degree in Computer Science from the University of Southern California in 2022.
 I was interned at [Google](https://about.google/) as a software engineer in summer 2022, 
 within the Google Shopping team.
+
 My research goal is to design and develop **human-centered NLP systems** that are attuned to the needs and preferences of human users, and integrate human factors into every stage of NLP system development.
 I'm constantly exploring how NLP and Human-AI interaction could benefit interdisciplinary domains, such as **Visualization** and **Computational Social Science**.
 
