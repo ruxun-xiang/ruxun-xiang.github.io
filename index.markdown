@@ -23,7 +23,7 @@ My research goal is to design and develop **human-centered NLP systems** that ar
 I'm constantly exploring how NLP and Human-AI interaction could benefit interdisciplinary domains, such as **Visualization** and **Computational Social Science**.
 
 
-Find my [CV](https://drive.google.com/file/d/1lVZ_kQcsb3YcfG2wa3_1C9C_3K-APB1n/view?usp=drive_link) here.
+<!-- Find my [CV](https://drive.google.com/file/d/1lVZ_kQcsb3YcfG2wa3_1C9C_3K-APB1n/view?usp=drive_link) here. -->
 
 Contact me through [Email](mailto:ruxunx@seas.harvard.edu).
 
